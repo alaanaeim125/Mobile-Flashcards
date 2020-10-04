@@ -24,11 +24,7 @@ This application is build using a tool by [Expo](https://expo.io/) called 'creat
   <img src="screenshot/2.png" width="25%" />
   <img src="screenshot/3.png" width="25%" />
   <img src="screenshot/4.png" width="25%" />
-</p>
-
-<p float="left">
   <img src="screenshot/5.png" width="25%" />
   <img src="screenshot/6.png" width="25%" />
   <img src="screenshot/7.png" width="25%" />
-
 </p>
